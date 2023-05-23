@@ -1,4 +1,5 @@
 # Imagenes chatbot usando gpt4all y gradio
 
-![Screenshot 2023-05-23 164814](https://github.com/carlosgomez247/last_resort/assets/94393665/90ceea28-5b46-488a-ad5b-95c63072800a)
+![fetbot](https://github.com/carlosgomez247/last_resort/assets/94393665/c1f17bea-51f8-492c-8306-2806b23a8ea1)
+
 
